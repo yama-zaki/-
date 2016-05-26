@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/05/26 11:25:40.517,=C:\Users\TECHNO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/26 11:29:00.505,C:\GitHub移行用\TEST\Unit1.dfm=C:\Users\TECHNO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/05/26 11:29:00.505,C:\GitHub移行用\TEST\Unit1.pas=C:\Users\TECHNO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/05/26 11:29:12.739,C:\GitHub移行用\TEST\TEST1.dproj=C:\Users\TECHNO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
