@@ -4,14 +4,14 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Buttons;
 
 type
   TForm1 = class(TForm)
     btnTEST: TButton;
-    btnClose: TButton;
-    procedure btnTESTClick(Sender: TObject);
+    btnClose: TBitBtn;
     procedure btnCloseClick(Sender: TObject);
+    procedure btnTESTClick(Sender: TObject);
   private
     { Private êÈåæ }
   public
